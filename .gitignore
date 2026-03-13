@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hugging Face model cache (very large, no need to push to git)
+~/.cache/huggingface/
+.cache/
+
+# Streamlit
+.streamlit/
+
+# Environment variables (keep secrets safe)
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.tar
