@@ -16,8 +16,6 @@ A lightweight web application that summarizes long text using the Hugging Face I
 
 ## Demo
 
-![App Screenshot](screenshot.png)
-
 ![alt text](<Screenshot 2026-03-08 121646.png>)
 
 ## 🛠️ Tech Stack
@@ -31,6 +29,12 @@ A lightweight web application that summarizes long text using the Hugging Face I
 | Docker | Containerized deployment |
 
 ---
+
+## Flow
+
+![alt text](<textsummarizerflow.png>)
+---
+
 
 ## Prerequisites
 
