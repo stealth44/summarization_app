@@ -154,8 +154,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- GitHub: [@yourusername](https://github.com/stealth44)
 
 ---
 
